@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCFDF02-45C6-4D94-826C-45D6A9A64A70}|task2.client\\task2.client.esproj|c:\\users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\services\\services.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFCFDF02-45C6-4D94-826C-45D6A9A64A70}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\services\\services.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCFDF02-45C6-4D94-826C-45D6A9A64A70}|task2.client\\task2.client.esproj|c:\\users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\sup-services\\sup-services.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFCFDF02-45C6-4D94-826C-45D6A9A64A70}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\sup-services\\sup-services.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCFDF02-45C6-4D94-826C-45D6A9A64A70}|task2.client\\task2.client.esproj|c:\\users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\sup-services\\sup-services.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFCFDF02-45C6-4D94-826C-45D6A9A64A70}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\sup-services\\sup-services.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCFDF02-45C6-4D94-826C-45D6A9A64A70}|task2.client\\task2.client.esproj|c:\\users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFCFDF02-45C6-4D94-826C-45D6A9A64A70}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCFDF02-45C6-4D94-826C-45D6A9A64A70}|task2.client\\task2.client.esproj|c:\\users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\url\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFCFDF02-45C6-4D94-826C-45D6A9A64A70}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\url\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCFDF02-45C6-4D94-826C-45D6A9A64A70}|task2.client\\task2.client.esproj|c:\\users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\services\\services.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFCFDF02-45C6-4D94-826C-45D6A9A64A70}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\services\\services.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCFDF02-45C6-4D94-826C-45D6A9A64A70}|task2.client\\task2.client.esproj|c:\\users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFCFDF02-45C6-4D94-826C-45D6A9A64A70}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCFDF02-45C6-4D94-826C-45D6A9A64A70}|task2.client\\task2.client.esproj|c:\\users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFCFDF02-45C6-4D94-826C-45D6A9A64A70}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCFDF02-45C6-4D94-826C-45D6A9A64A70}|task2.client\\task2.client.esproj|c:\\users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFCFDF02-45C6-4D94-826C-45D6A9A64A70}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E848D6-3B8D-493E-B885-3E9C9C32944F}|task2.Server\\task2.Server.csproj|c:\\users\\almom\\source\\repos\\testangular\\task2\\task2.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E848D6-3B8D-493E-B885-3E9C9C32944F}|task2.Server\\task2.Server.csproj|solutionrelative:task2.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E848D6-3B8D-493E-B885-3E9C9C32944F}|task2.Server\\task2.Server.csproj|c:\\users\\almom\\source\\repos\\testangular\\task2\\task2.server\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E848D6-3B8D-493E-B885-3E9C9C32944F}|task2.Server\\task2.Server.csproj|solutionrelative:task2.server\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCFDF02-45C6-4D94-826C-45D6A9A64A70}|task2.client\\task2.client.esproj|c:\\users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\footer\\footer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFCFDF02-45C6-4D94-826C-45D6A9A64A70}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\footer\\footer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E848D6-3B8D-493E-B885-3E9C9C32944F}|task2.Server\\task2.Server.csproj|c:\\users\\almom\\source\\repos\\testangular\\task2\\task2.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E848D6-3B8D-493E-B885-3E9C9C32944F}|task2.Server\\task2.Server.csproj|solutionrelative:task2.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E848D6-3B8D-493E-B885-3E9C9C32944F}|task2.Server\\task2.Server.csproj|c:\\users\\almom\\source\\repos\\testangular\\task2\\task2.server\\controllers\\supcervicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E848D6-3B8D-493E-B885-3E9C9C32944F}|task2.Server\\task2.Server.csproj|solutionrelative:task2.server\\controllers\\supcervicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sup-services.component.ts",
+              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\sup-services\\sup-services.component.ts",
+              "RelativeDocumentMoniker": "task2.client\\src\\app\\sup-services\\sup-services.component.ts",
+              "ToolTip": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\sup-services\\sup-services.component.ts",
+              "RelativeToolTip": "task2.client\\src\\app\\sup-services\\sup-services.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T19:30:43.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "services.component.html",
+              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\services\\services.component.html",
+              "RelativeDocumentMoniker": "task2.client\\src\\app\\services\\services.component.html",
+              "ToolTip": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\services\\services.component.html",
+              "RelativeToolTip": "task2.client\\src\\app\\services\\services.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-29T18:14:05.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "task2.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "task2.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T17:52:19.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "url.service.ts",
+              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\url\\url.service.ts",
+              "RelativeDocumentMoniker": "task2.client\\src\\app\\url\\url.service.ts",
+              "ToolTip": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\url\\url.service.ts",
+              "RelativeToolTip": "task2.client\\src\\app\\url\\url.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T18:25:25.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sup-services.component.html",
+              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\sup-services\\sup-services.component.html",
+              "RelativeDocumentMoniker": "task2.client\\src\\app\\sup-services\\sup-services.component.html",
+              "ToolTip": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\sup-services\\sup-services.component.html",
+              "RelativeToolTip": "task2.client\\src\\app\\sup-services\\sup-services.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-29T19:42:58.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "services.component.ts",
+              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\services\\services.component.ts",
+              "RelativeDocumentMoniker": "task2.client\\src\\app\\services\\services.component.ts",
+              "ToolTip": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\services\\services.component.ts",
+              "RelativeToolTip": "task2.client\\src\\app\\services\\services.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T18:38:02.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\index.html",
+              "RelativeDocumentMoniker": "task2.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\index.html",
+              "RelativeToolTip": "task2.client\\src\\index.html",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-29T18:06:49.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "task2.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "task2.client\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-29T18:03:06.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "footer.component.html",
+              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\footer\\footer.component.html",
+              "RelativeDocumentMoniker": "task2.client\\src\\app\\footer\\footer.component.html",
+              "ToolTip": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\footer\\footer.component.html",
+              "RelativeToolTip": "task2.client\\src\\app\\footer\\footer.component.html",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAcwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-29T17:51:57.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "navbar.component.html",
+              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeDocumentMoniker": "task2.client\\src\\app\\navbar\\navbar.component.html",
+              "ToolTip": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeToolTip": "task2.client\\src\\app\\navbar\\navbar.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-29T17:47:41.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "servicesController.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.Server\\Controllers\\servicesController.cs",
+              "RelativeDocumentMoniker": "task2.Server\\Controllers\\servicesController.cs",
+              "ToolTip": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.Server\\Controllers\\servicesController.cs",
+              "RelativeToolTip": "task2.Server\\Controllers\\servicesController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:42:19.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.Server\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "task2.Server\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.Server\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "task2.Server\\Models\\MyDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:37:01.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.Server\\Program.cs",
+              "RelativeDocumentMoniker": "task2.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.Server\\Program.cs",
+              "RelativeToolTip": "task2.Server\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:35:19.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "supcervicesController.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.Server\\Controllers\\supcervicesController.cs",
+              "RelativeDocumentMoniker": "task2.Server\\Controllers\\supcervicesController.cs",
+              "ToolTip": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.Server\\Controllers\\supcervicesController.cs",
+              "RelativeToolTip": "task2.Server\\Controllers\\supcervicesController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:46:06.083Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 906,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

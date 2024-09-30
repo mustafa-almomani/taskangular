@@ -1,0 +1,22 @@
+<p>category works!</p>
+<div class="card-group" >
+  <div class="card" *ngFor="let item of servicearray">
+    <img src="{{item.serviceImage}}" class="card-img-top"
+         alt="Hollywood Sign on The Hill" />
+    <div class="card-body">
+      <h5 class="card-title">{{item.serviceName}}</h5>
+      <p class="card-text">
+        {{item.serviceDescription}}
+      </p>
+    </div>
+    <div class="card-footer">
+      <div>
+        <a routerLink="/subservicesbyservicid/{{item.serviceId}}" class="btn btn-primary">show more</a>
+      </div>
+      <small class="text-muted">Last updated 3 mins ago</small>
+    </div>
+  </div>
+ 
+</div>
+
+

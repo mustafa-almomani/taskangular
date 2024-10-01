@@ -1,1 +1,2 @@
 C:\Users\almom\source\repos\testangular\task2\task2.client\obj\Debug\task2.client.esproj.CoreCompileInputs.cache
+C:\Users\almom\source\repos\testangular\taskangular\task2\task2.client\obj\Debug\task2.client.esproj.CoreCompileInputs.cache

@@ -20,4 +20,20 @@ export class UrlService {
   {
     return this.http.get<any>(`${this.staticdata}/supcervices/getsupservicesbyid/${id}`)
   }
+
+
+  getsubscription(): Observable<any> {
+    return this.http.get<any>(`${this.staticdata}/subscription`)
+  }
+  addusersubscription(data: any): Observable<any> {
+    return this.http.post<any>(`${this.staticdata}/usersubscription`, data)
+
+  }
+
+
+  getproductbyid(id: any): Observable<any> {
+    return this.http.get<any>(`${this.staticdata}/supcervices/getproductbyid/${id}`)
+  }
+
+
 }

@@ -28,5 +28,13 @@ namespace task2.Server.Controllers
             var service = _db.SubServices.Where(x => x.SubServiceId == id).ToList();
             return Ok(service);
         }
+
+
+        [HttpGet("getproductbyid/{id}")]
+        public IActionResult getproductbyid(int id) 
+        {
+            var productdetalis=_db.SubServices.Where(x=>x.SubServiceId==id).ToList();
+            return Ok(productdetalis);
+        }
     }
 }

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "WIqMMjTeb143OGtq6nn/uFTMC7sSnLKEwqKMSYVgFS8=",
+  "Hash": "BOC/fPupZEJKONjZTnl4n6DJGT+bFKCab6t+BftaRFE=",
   "Source": "task2.Server",
   "BasePath": "_content/task2.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\almom\\source\\repos\\testangular\\task2\\task2.client\\task2.client.esproj",
+      "Identity": "C:\\Users\\almom\\source\\repos\\testangular\\taskangular\\task2\\task2.client\\task2.client.esproj",
       "Version": 2,
       "Source": "task2.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

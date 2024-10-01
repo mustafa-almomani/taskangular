@@ -1,0 +1,20 @@
+<p>subscription works!</p>
+<div class="card-group">
+  <div class="card" *ngFor="let item of subsecriptionarray">
+    <img src="{{item.serviceImage}}" class="card-img-top"
+         alt="Hollywood Sign on The Hill" />
+    <div class="card-body">
+      <h5 class="card-title">{{item.subscriptionName}}</h5>
+      <p class="card-text">
+        {{item.subscriptionDescription}}
+      </p>
+    </div>
+    <div class="card-footer">
+      <div>
+        <a href="#" (click)="addusersubscription(item.subscriptionId)" class="btn btn-primary">Add </a>
+      </div>
+      <small class="text-muted">Last updated 3 mins ago</small>
+    </div>
+  </div>
+
+</div>

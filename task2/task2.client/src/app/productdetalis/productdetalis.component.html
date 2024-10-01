@@ -1,0 +1,23 @@
+
+<h1>productdetalis</h1>
+<div style="width:400px;height:400px" class="card-group">
+  <div class="card" *ngFor="let item of getproducrtid">
+    <img src="{{item.subServiceImage}}" class="card-img-top"
+         alt="Hollywood Sign on The Hill" />
+    <div class="card-body">
+      <h5 class="card-title">{{item.subServiceName}}</h5>
+      <p class="card-text">
+        {{item.subServiceDescription}}
+      </p>
+    </div>
+    <div class="card-footer">
+      <div>
+        <a class="nav-link" routerLink="/subscription">subscription</a>
+      </div>
+      <small class="text-muted">Last updated 3 mins ago</small>
+    </div>
+  </div>
+
+</div>
+
+
